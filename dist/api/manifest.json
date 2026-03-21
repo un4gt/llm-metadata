@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-03-21T13:13:21.278Z",
+  "generatedAt": "2026-03-21T13:25:46.431Z",
   "overridesHash": "4013626396a8af0132d14bc0ff73de739520d7a7f71125a4d5ecd940b77f9621",
   "policyHash": "20317b46d0bf96bb0fbc54205c9fe49263616973b2ba98b912a6ed68b218c274",
   "sourceHash": "368e26bcbe3f70c164bebfd3e8755dfd726487592280bdada0092859eb52351f",
   "stats": {
     "dryRun": false,
-    "filesChanged": 80,
+    "filesChanged": 16833,
     "models": 4066,
     "providers": 108
   },
