@@ -1,0 +1,16 @@
+{
+  "description": "Seedance 1.0 Pro は doubao によって提供される AI モデルです。",
+  "id": "seedance-1-0-pro-250528",
+  "last_updated": "2026-03-20",
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "name": "Seedance 1.0 Pro",
+  "release_date": "2025-05-28"
+}

@@ -17137,6 +17137,23 @@
       "vendor_name": "Cortecs"
     },
     {
+      "description": "MiniMax-M2.5 是由 cortecs 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "minimax-m2.5",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.32,
+      "price_per_m_output": 1.18,
+      "ratio_cache": null,
+      "ratio_completion": 3.6874999999999996,
+      "ratio_model": 0.16,
+      "status": 1,
+      "tags": "推理,工具,开源权重,196.6K",
+      "vendor_name": "Cortecs"
+    },
+    {
       "description": "Nova Pro 1.0 是由 cortecs 提供的人工智能模型。",
       "endpoints": null,
       "icon": "",
@@ -17766,6 +17783,125 @@
       "vendor_name": "DInference"
     },
     {
+      "description": "Doubao Embedding is an AI model provided by doubao.",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "Doubao-embedding",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "8.2K",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Doubao Lite 128K is an AI model provided by doubao.",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "Doubao-lite-128k",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "工具,128K",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Doubao Lite 32K is an AI model provided by doubao.",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "Doubao-lite-32k",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "工具,32K",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Doubao Lite 4K is an AI model provided by doubao.",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "Doubao-lite-4k",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "工具,4.1K",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Doubao Pro 128K is an AI model provided by doubao.",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "Doubao-pro-128k",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "工具,128K",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Doubao Pro 32K is an AI model provided by doubao.",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "Doubao-pro-32k",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "工具,32K",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Doubao Pro 4K is an AI model provided by doubao.",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "Doubao-pro-4k",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "工具,4.1K",
+      "vendor_name": "豆包"
+    },
+    {
       "description": "一款由字节跳动推出的多模态大语言模型",
       "endpoints": null,
       "icon": "Doubao.Color",
@@ -17814,6 +17950,108 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,多模态,256K",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Doubao Seed 1.6 Thinking is an AI model provided by doubao.",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "doubao-seed-1-6-thinking-250715",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "推理,工具,多模态,256K",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Doubao Seedance 1.0 Pro is an AI model provided by doubao.",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "doubao-seedance-1-0-pro-250528",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "多模态",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Doubao Seedream 4.0 is an AI model provided by doubao.",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "doubao-seedream-4-0-250828",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "多模态",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Seed 1.6 Thinking 是由 doubao 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "seed-1-6-thinking-250715",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "推理,工具,多模态,256K",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Seedance 1.0 Pro 是由 doubao 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "seedance-1-0-pro-250528",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "多模态",
+      "vendor_name": "豆包"
+    },
+    {
+      "description": "Seedream 4.0 是由 doubao 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "Doubao.Color",
+      "model_name": "seedream-4-0-250828",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "多模态",
       "vendor_name": "豆包"
     },
     {
@@ -19105,7 +19343,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,文件,多模态,128K",
+      "tags": "推理,工具,文件,多模态,144K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19122,7 +19360,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,文件,多模态,128K",
+      "tags": "推理,工具,文件,多模态,160K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19139,7 +19377,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,文件,多模态,128K",
+      "tags": "推理,工具,文件,多模态,144K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19173,7 +19411,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,文件,多模态,128K",
+      "tags": "推理,工具,文件,多模态,216K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19190,7 +19428,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,文件,多模态,128K",
+      "tags": "推理,工具,文件,多模态,144K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19207,7 +19445,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,文件,多模态,128K",
+      "tags": "推理,工具,文件,多模态,200K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19292,7 +19530,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "工具,文件,多模态,64K",
+      "tags": "工具,文件,多模态,128K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19309,7 +19547,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "工具,文件,多模态,64K",
+      "tags": "工具,文件,多模态,128K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19343,7 +19581,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,文件,多模态,128K",
+      "tags": "推理,工具,文件,多模态,264K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19360,7 +19598,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,文件,多模态,128K",
+      "tags": "推理,工具,文件,多模态,264K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19377,7 +19615,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,多模态,128K",
+      "tags": "推理,工具,多模态,400K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19394,7 +19632,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,文件,多模态,128K",
+      "tags": "推理,工具,文件,多模态,400K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -19411,7 +19649,7 @@
       "ratio_completion": null,
       "ratio_model": null,
       "status": 1,
-      "tags": "推理,工具,多模态,128K",
+      "tags": "推理,工具,多模态,400K",
       "vendor_name": "GitHub Copilot"
     },
     {
@@ -44337,9 +44575,26 @@
       "vendor_name": "NovitaAI"
     },
     {
+      "description": "BGE-M3 是由 nvidia 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "SiNvidia",
+      "model_name": "baai",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "8.2K",
+      "vendor_name": "NVIDIA"
+    },
+    {
       "description": "FLUX.1-dev 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "black-forest-labs/flux.1-dev",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44351,12 +44606,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "多模态,4.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Deepseek Coder 6.7b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "deepseek-ai/deepseek-coder-6.7b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44368,12 +44623,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Deepseek R1 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "deepseek-ai/deepseek-r1",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44385,12 +44640,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Deepseek R1 0528 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "deepseek-ai/deepseek-r1-0528",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44402,12 +44657,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "DeepSeek V3.1 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "deepseek-ai/deepseek-v3.1",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44419,12 +44674,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "DeepSeek V3.1 Terminus 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "deepseek-ai/deepseek-v3.1-terminus",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44436,12 +44691,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "DeepSeek V3.2 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "deepseek-ai/deepseek-v3.2",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44453,12 +44708,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,163.8K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Codegemma 1.1 7b 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "google/codegemma-1.1-7b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44470,12 +44725,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Codegemma 7b 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "google/codegemma-7b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44487,12 +44742,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Gemma 2 27b It 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "google/gemma-2-27b-it",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44504,12 +44759,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Gemma 2 2b It 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "google/gemma-2-2b-it",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44521,12 +44776,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Gemma 3 12b It 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "google/gemma-3-12b-it",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44538,12 +44793,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Gemma 3 1b It 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "google/gemma-3-1b-it",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44555,12 +44810,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Gemma-3-27B-IT 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "google/gemma-3-27b-it",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44572,12 +44827,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,文件,多模态,131.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Gemma 3n E2b It 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "google/gemma-3n-e2b-it",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44589,12 +44844,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Gemma 3n E4b It 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "google/gemma-3n-e4b-it",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44606,12 +44861,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Codellama 70b 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "meta/codellama-70b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44623,12 +44878,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 3.1 405b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "meta/llama-3.1-405b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44640,12 +44895,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 3.1 70b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "meta/llama-3.1-70b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44657,12 +44912,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 3.2 11b Vision Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "meta/llama-3.2-11b-vision-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44674,12 +44929,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 3.2 1b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "meta/llama-3.2-1b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44691,12 +44946,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 3.3 70b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "meta/llama-3.3-70b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44708,12 +44963,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 4 Maverick 17b 128e Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "meta/llama-4-maverick-17b-128e-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44725,12 +44980,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 4 Scout 17b 16e Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "meta/llama-4-scout-17b-16e-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44742,12 +44997,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama3 70b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "meta/llama3-70b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44759,12 +45014,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama3 8b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "meta/llama3-8b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44776,12 +45031,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Phi 3 Medium 128k Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "microsoft/phi-3-medium-128k-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44793,12 +45048,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Phi 3 Medium 4k Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "microsoft/phi-3-medium-4k-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44810,12 +45065,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,4K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Phi 3 Small 128k Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "microsoft/phi-3-small-128k-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44827,12 +45082,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Phi 3 Small 8k Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "microsoft/phi-3-small-8k-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44844,12 +45099,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,8K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Phi 3 Vision 128k Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "microsoft/phi-3-vision-128k-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44861,12 +45116,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,多模态,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Phi 3.5 Moe Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "microsoft/phi-3.5-moe-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44878,12 +45133,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Phi 3.5 Vision Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "microsoft/phi-3.5-vision-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44895,12 +45150,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,多模态,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Phi-4-Mini 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "microsoft/phi-4-mini-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44912,12 +45167,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,文件,多模态,音频,131.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "MiniMax-M2.1 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "minimaxai/minimax-m2.1",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44929,12 +45184,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,开源权重,204.8K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "MiniMax-M2.5 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "minimaxai/minimax-m2.5",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44946,12 +45201,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,开源权重,204.8K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Codestral 22b Instruct V0.1 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "mistralai/codestral-22b-instruct-v0.1",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44963,12 +45218,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Devstral-2-123B-Instruct-2512 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "mistralai/devstral-2-123b-instruct-2512",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44980,12 +45235,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,文件,开源权重,262.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Mamba Codestral 7b V0.1 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "mistralai/mamba-codestral-7b-v0.1",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -44997,12 +45252,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Ministral 3 14B Instruct 2512 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "mistralai/ministral-14b-instruct-2512",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45014,12 +45269,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,262.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Mistral Large 2 Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "mistralai/mistral-large-2-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45031,12 +45286,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Mistral Large 3 675B Instruct 2512 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "mistralai/mistral-large-3-675b-instruct-2512",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45048,12 +45303,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,文件,开源权重,多模态,262.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Mistral Small 3.1 24b Instruct 2503 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "mistralai/mistral-small-3.1-24b-instruct-2503",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45065,12 +45320,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Kimi K2 Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "moonshotai/kimi-k2-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45082,12 +45337,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Kimi K2 0905 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "moonshotai/kimi-k2-instruct-0905",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45099,12 +45354,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,262.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Kimi K2 Thinking 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "moonshotai/kimi-k2-thinking",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45116,12 +45371,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,开源权重,262.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Kimi K2.5 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "moonshotai/kimi-k2.5",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45133,12 +45388,29 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,文件,开源权重,多模态,262.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
+    },
+    {
+      "description": "Embed QA 4 是由 nvidia 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "SiNvidia",
+      "model_name": "nvidia",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": null,
+      "price_per_m_output": null,
+      "ratio_cache": null,
+      "ratio_completion": null,
+      "ratio_model": null,
+      "status": 1,
+      "tags": "8.2K",
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Cosmos Nemotron 34B 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/cosmos-nemotron-34b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45150,12 +45422,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,多模态,131.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 3.1 Nemotron 51b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/llama-3.1-nemotron-51b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45167,12 +45439,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 3.1 Nemotron 70b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/llama-3.1-nemotron-70b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45184,12 +45456,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama-3.1-Nemotron-Ultra-253B-v1 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45201,12 +45473,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,131.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 3.3 Nemotron Super 49b V1 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/llama-3.3-nemotron-super-49b-v1",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45218,12 +45490,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama 3.3 Nemotron Super 49b V1.5 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45235,12 +45507,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama Embed Nemotron 8B 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/llama-embed-nemotron-8b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45252,12 +45524,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "32.8K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Llama3 Chatqa 1.5 70b 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/llama3-chatqa-1.5-70b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45269,12 +45541,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "NeMo Retriever OCR v1 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/nemoretriever-ocr-v1",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45286,12 +45558,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "多模态",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "nemotron-3-nano-30b-a3b 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/nemotron-3-nano-30b-a3b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45303,12 +45575,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,开源权重,131.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Nemotron 4 340b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/nemotron-4-340b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45320,12 +45592,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "nvidia-nemotron-nano-9b-v2 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/nvidia-nemotron-nano-9b-v2",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45337,12 +45609,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,开源权重,131.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Parakeet TDT 0.6B v2 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "nvidia/parakeet-tdt-0.6b-v2",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45354,12 +45626,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "音频",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "GPT-OSS-120B 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "openai/gpt-oss-120b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45371,12 +45643,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,文件,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Whisper Large v3 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "openai/whisper-large-v3",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45388,12 +45660,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "开源权重,音频",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Qwen2.5 Coder 32b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "qwen/qwen2.5-coder-32b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45405,12 +45677,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Qwen2.5 Coder 7b Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "qwen/qwen2.5-coder-7b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45422,12 +45694,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Qwen3-235B-A22B 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "qwen/qwen3-235b-a22b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45439,12 +45711,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,131.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Qwen3 Coder 480B A35B Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "qwen/qwen3-coder-480b-a35b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45456,12 +45728,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,262.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Qwen3-Next-80B-A3B-Instruct 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "qwen/qwen3-next-80b-a3b-instruct",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45473,12 +45745,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "工具,262.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Qwen3-Next-80B-A3B-Thinking 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "qwen/qwen3-next-80b-a3b-thinking",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45490,12 +45762,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,开源权重,262.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Qwen3.5-397B-A17B 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "qwen/qwen3.5-397b-a17b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45507,12 +45779,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,文件,开源权重,多模态,262.1K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Qwq 32b 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "qwen/qwq-32b",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45524,12 +45796,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,开源权重,128K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "Step 3.5 Flash 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "stepfun-ai/step-3.5-flash",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45541,12 +45813,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,开源权重,256K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "GLM-4.7 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "z-ai/glm4.7",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45558,12 +45830,12 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,开源权重,204.8K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "GLM5 是由 nvidia 提供的人工智能模型。",
       "endpoints": null,
-      "icon": "",
+      "icon": "SiNvidia",
       "model_name": "z-ai/glm5",
       "name_rule": 0,
       "price_per_m_cache_read": null,
@@ -45575,7 +45847,7 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,开源权重,202.8K",
-      "vendor_name": "Nvidia"
+      "vendor_name": "NVIDIA"
     },
     {
       "description": "cogito-2.1:671b 是由 ollama-cloud 提供的人工智能模型。",
@@ -65230,6 +65502,23 @@
       "vendor_name": "Vercel AI Gateway"
     },
     {
+      "description": "MiMo V2 Pro 是由 vercel 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "Vercel.Color",
+      "model_name": "xiaomi/mimo-v2-pro",
+      "name_rule": 0,
+      "price_per_m_cache_read": 0.19999999999999998,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 1,
+      "price_per_m_output": 3,
+      "ratio_cache": 0.19999999999999998,
+      "ratio_completion": 3,
+      "ratio_model": 0.5,
+      "status": 1,
+      "tags": "推理,工具,1M",
+      "vendor_name": "Vercel AI Gateway"
+    },
+    {
       "description": "GLM 4.5 是由 vercel 提供的人工智能模型。",
       "endpoints": null,
       "icon": "Vercel.Color",
@@ -67168,6 +67457,23 @@
       "vendor_name": "ZenMux"
     },
     {
+      "description": "Gemini 3 Pro Image Preview 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "google/gemini-3-pro-image-preview",
+      "name_rule": 0,
+      "price_per_m_cache_read": 0.2,
+      "price_per_m_cache_write": 4.5,
+      "price_per_m_input": 2,
+      "price_per_m_output": 12,
+      "ratio_cache": 0.1,
+      "ratio_completion": 6,
+      "ratio_model": 1,
+      "status": 1,
+      "tags": "推理,工具,文件,多模态,音频,1M",
+      "vendor_name": "ZenMux"
+    },
+    {
       "description": "Gemini 3 Pro Preview 是由 zenmux 提供的人工智能模型。",
       "endpoints": null,
       "icon": "",
@@ -67182,6 +67488,23 @@
       "ratio_model": 1,
       "status": 1,
       "tags": "推理,工具,文件,多模态,音频,1M",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "Gemini 3.1 Flash Lite Preview 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "google/gemini-3.1-flash-lite-preview",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.25,
+      "price_per_m_output": 1.5,
+      "ratio_cache": null,
+      "ratio_completion": 6,
+      "ratio_model": 0.125,
+      "status": 1,
+      "tags": "工具,文件,多模态,音频,1.1M",
       "vendor_name": "ZenMux"
     },
     {
@@ -67335,6 +67658,40 @@
       "ratio_model": 0.3,
       "status": 1,
       "tags": "推理,工具,204.8K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "MiniMax M2.7 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "minimax/minimax-m2.7",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.3055,
+      "price_per_m_output": 1.2219,
+      "ratio_cache": null,
+      "ratio_completion": 3.9996726677577743,
+      "ratio_model": 0.15275,
+      "status": 1,
+      "tags": "推理,工具,文件,204.8K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "MiniMax M2.7 highspeed 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "minimax/minimax-m2.7-highspeed",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.611,
+      "price_per_m_output": 2.4439,
+      "ratio_cache": null,
+      "ratio_completion": 3.9998363338788874,
+      "ratio_model": 0.3055,
+      "status": 1,
+      "tags": "推理,工具,文件,204.8K",
       "vendor_name": "ZenMux"
     },
     {
@@ -67559,6 +67916,108 @@
       "vendor_name": "ZenMux"
     },
     {
+      "description": "GPT-5.3 Chat 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "openai/gpt-5.3-chat",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 1.75,
+      "price_per_m_output": 14,
+      "ratio_cache": null,
+      "ratio_completion": 8,
+      "ratio_model": 0.875,
+      "status": 1,
+      "tags": "工具,文件,128K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "GPT-5.3 Codex 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "openai/gpt-5.3-codex",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 1.75,
+      "price_per_m_output": 14,
+      "ratio_cache": null,
+      "ratio_completion": 8,
+      "ratio_model": 0.875,
+      "status": 1,
+      "tags": "推理,工具,文件,400K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "GPT-5.4 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "openai/gpt-5.4",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 3.75,
+      "price_per_m_output": 18.75,
+      "ratio_cache": null,
+      "ratio_completion": 5,
+      "ratio_model": 1.875,
+      "status": 1,
+      "tags": "推理,工具,文件,多模态,1.1M",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "GPT-5.4 Mini 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "openai/gpt-5.4-mini",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.75,
+      "price_per_m_output": 4.5,
+      "ratio_cache": null,
+      "ratio_completion": 6,
+      "ratio_model": 0.375,
+      "status": 1,
+      "tags": "工具,文件,400K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "GPT-5.4 Nano 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "openai/gpt-5.4-nano",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.2,
+      "price_per_m_output": 1.25,
+      "ratio_cache": null,
+      "ratio_completion": 6.25,
+      "ratio_model": 0.1,
+      "status": 1,
+      "tags": "工具,400K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "GPT-5.4 Pro 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "openai/gpt-5.4-pro",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 45,
+      "price_per_m_output": 225,
+      "ratio_cache": null,
+      "ratio_completion": 5,
+      "ratio_model": 22.5,
+      "status": 1,
+      "tags": "推理,工具,文件,多模态,1.1M",
+      "vendor_name": "ZenMux"
+    },
+    {
       "description": "Qwen3-Coder-Plus 是由 zenmux 提供的人工智能模型。",
       "endpoints": null,
       "icon": "",
@@ -67590,6 +68049,40 @@
       "ratio_model": 0.6,
       "status": 1,
       "tags": "推理,工具,256K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "Qwen3.5 Flash 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "qwen/qwen3.5-flash",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.1,
+      "price_per_m_output": 0.4,
+      "ratio_cache": null,
+      "ratio_completion": 4,
+      "ratio_model": 0.05,
+      "status": 1,
+      "tags": "工具,文件,多模态,1M",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "Qwen3.5 Plus 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "qwen/qwen3.5-plus",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.8,
+      "price_per_m_output": 4.8,
+      "ratio_cache": null,
+      "ratio_completion": 5.999999999999999,
+      "ratio_model": 0.4,
+      "status": 1,
+      "tags": "推理,工具,文件,多模态,1M",
       "vendor_name": "ZenMux"
     },
     {
@@ -67658,6 +68151,23 @@
       "ratio_model": 0.055,
       "status": 1,
       "tags": "推理,工具,文件,多模态,256K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "Doubao Seed 2.0 Code 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "volcengine/doubao-seed-2.0-code",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.9,
+      "price_per_m_output": 4.48,
+      "ratio_cache": null,
+      "ratio_completion": 4.977777777777778,
+      "ratio_model": 0.45,
+      "status": 1,
+      "tags": "工具,文件,256K",
       "vendor_name": "ZenMux"
     },
     {
@@ -67797,6 +68307,40 @@
       "vendor_name": "ZenMux"
     },
     {
+      "description": "Grok 4.2 Fast 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "x-ai/grok-4.2-fast",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 3,
+      "price_per_m_output": 9,
+      "ratio_cache": null,
+      "ratio_completion": 3,
+      "ratio_model": 1.5,
+      "status": 1,
+      "tags": "推理,工具,文件,多模态,2M",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "Grok 4.2 Fast Non Reasoning 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "x-ai/grok-4.2-fast-non-reasoning",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 3,
+      "price_per_m_output": 9,
+      "ratio_cache": null,
+      "ratio_completion": 3,
+      "ratio_model": 1.5,
+      "status": 1,
+      "tags": "工具,文件,多模态,2M",
+      "vendor_name": "ZenMux"
+    },
+    {
       "description": "Grok Code Fast 1 是由 zenmux 提供的人工智能模型。",
       "endpoints": null,
       "icon": "",
@@ -67845,6 +68389,40 @@
       "ratio_model": null,
       "status": 1,
       "tags": "推理,工具,262K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "MiMo V2 Omni 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "xiaomi/mimo-v2-omni",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.4,
+      "price_per_m_output": 2,
+      "ratio_cache": null,
+      "ratio_completion": 5,
+      "ratio_model": 0.2,
+      "status": 1,
+      "tags": "工具,文件,多模态,265K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "MiMo V2 Pro 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "xiaomi/mimo-v2-pro",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 1.5,
+      "price_per_m_output": 4.5,
+      "ratio_cache": null,
+      "ratio_completion": 3,
+      "ratio_model": 0.75,
+      "status": 1,
+      "tags": "推理,工具,文件,多模态,1M",
       "vendor_name": "ZenMux"
     },
     {
@@ -68015,6 +68593,23 @@
       "ratio_model": 0.29,
       "status": 1,
       "tags": "推理,工具,开源权重,200K",
+      "vendor_name": "ZenMux"
+    },
+    {
+      "description": "GLM 5 Turbo 是由 zenmux 提供的人工智能模型。",
+      "endpoints": null,
+      "icon": "",
+      "model_name": "z-ai/glm-5-turbo",
+      "name_rule": 0,
+      "price_per_m_cache_read": null,
+      "price_per_m_cache_write": null,
+      "price_per_m_input": 0.88,
+      "price_per_m_output": 3.48,
+      "ratio_cache": null,
+      "ratio_completion": 3.9545454545454546,
+      "ratio_model": 0.44,
+      "status": 1,
+      "tags": "推理,工具,文件,200K",
       "vendor_name": "ZenMux"
     },
     {

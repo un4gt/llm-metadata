@@ -179,7 +179,7 @@
       "doc": "https://api.cortecs.ai/v1/models",
       "iconURL": "https://models.dev/logos/cortecs.svg",
       "id": "cortecs",
-      "modelCount": 23,
+      "modelCount": 24,
       "name": "Cortecs"
     },
     {
@@ -211,7 +211,7 @@
       "api": "https://www.volcengine.com/docs/82379",
       "id": "doubao",
       "lobeIcon": "Doubao.Color",
-      "modelCount": 3,
+      "modelCount": 16,
       "name": "doubao"
     },
     {
@@ -572,11 +572,12 @@
     },
     {
       "api": "https://integrate.api.nvidia.com/v1",
-      "doc": "https://docs.api.nvidia.com/nim/",
+      "doc": "https://docs.api.nvidia.com/",
       "iconURL": "https://models.dev/logos/nvidia.svg",
       "id": "nvidia",
-      "modelCount": 73,
-      "name": "Nvidia"
+      "lobeIcon": "SiNvidia",
+      "modelCount": 75,
+      "name": "NVIDIA"
     },
     {
       "api": "https://ollama.com/v1",
@@ -795,7 +796,7 @@
       "iconURL": "https://models.dev/logos/vercel.svg",
       "id": "vercel",
       "lobeIcon": "Vercel.Color",
-      "modelCount": 220,
+      "modelCount": 221,
       "name": "Vercel AI Gateway"
     },
     {
@@ -861,7 +862,7 @@
       "doc": "https://docs.zenmux.ai",
       "iconURL": "https://models.dev/logos/zenmux.svg",
       "id": "zenmux",
-      "modelCount": 69,
+      "modelCount": 87,
       "name": "ZenMux"
     },
     {

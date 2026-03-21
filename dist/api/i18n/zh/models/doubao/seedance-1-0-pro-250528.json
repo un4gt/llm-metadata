@@ -1,0 +1,16 @@
+{
+  "description": "Seedance 1.0 Pro 是由 doubao 提供的人工智能模型。",
+  "id": "seedance-1-0-pro-250528",
+  "last_updated": "2026-03-20",
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "name": "Seedance 1.0 Pro",
+  "release_date": "2025-05-28"
+}

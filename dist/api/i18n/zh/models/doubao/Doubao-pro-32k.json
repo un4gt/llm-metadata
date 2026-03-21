@@ -1,0 +1,20 @@
+{
+  "description": "Doubao Pro 32K is an AI model provided by doubao.",
+  "id": "Doubao-pro-32k",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 32000,
+    "output": 8192
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "name": "豆包 Pro 32K",
+  "temperature": true,
+  "tool_call": true
+}

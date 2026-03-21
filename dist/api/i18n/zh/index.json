@@ -10955,6 +10955,17 @@
     {
       "flags": {
         "attachment": false,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "minimax-m2.5",
+      "name": "MiniMax-M2.5",
+      "providerId": "cortecs",
+      "updated": "2026-02-12"
+    },
+    {
+      "flags": {
+        "attachment": false,
         "reasoning": false,
         "tool_call": true
       },
@@ -11362,6 +11373,83 @@
     {
       "flags": {
         "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Doubao-embedding",
+      "name": "豆包向量",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "Doubao-lite-128k",
+      "name": "豆包 Lite 128K",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "Doubao-lite-32k",
+      "name": "豆包 Lite 32K",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "Doubao-lite-4k",
+      "name": "豆包 Lite 4K",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "Doubao-pro-128k",
+      "name": "豆包 Pro 128K",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "Doubao-pro-32k",
+      "name": "豆包 Pro 32K",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "Doubao-pro-4k",
+      "name": "豆包 Pro 4K",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
         "reasoning": true,
         "tool_call": true
       },
@@ -11391,6 +11479,72 @@
       "name": "doubao-seed-1-6-thinking",
       "providerId": "doubao",
       "updated": "2025-07-15"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "doubao-seed-1-6-thinking-250715",
+      "name": "豆包 Seed 1.6 Thinking",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "doubao-seedance-1-0-pro-250528",
+      "name": "豆包 Seedance 1.0 Pro",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "doubao-seedream-4-0-250828",
+      "name": "豆包 Seedream 4.0",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "seed-1-6-thinking-250715",
+      "name": "Seed 1.6 Thinking",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "seedance-1-0-pro-250528",
+      "name": "Seedance 1.0 Pro",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "seedream-4-0-250828",
+      "name": "Seedream 4.0",
+      "providerId": "doubao",
+      "updated": "2026-03-20"
     },
     {
       "flags": {
@@ -28558,6 +28712,17 @@
         "reasoning": false,
         "tool_call": false
       },
+      "id": "baai",
+      "name": "BGE-M3",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
       "id": "black-forest-labs/flux.1-dev",
       "name": "FLUX.1-dev",
       "providerId": "nvidia",
@@ -29068,6 +29233,17 @@
       "name": "Kimi K2.5",
       "providerId": "nvidia",
       "updated": "2026-01-27"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia",
+      "name": "Embed QA 4",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
     },
     {
       "flags": {
@@ -42077,6 +42253,17 @@
         "reasoning": true,
         "tool_call": true
       },
+      "id": "xiaomi/mimo-v2-pro",
+      "name": "MiMo V2 Pro",
+      "providerId": "vercel",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": true,
+        "tool_call": true
+      },
       "id": "zai/glm-4.5",
       "name": "GLM 4.5",
       "providerId": "vercel",
@@ -43331,10 +43518,32 @@
         "reasoning": true,
         "tool_call": true
       },
+      "id": "google/gemini-3-pro-image-preview",
+      "name": "Gemini 3 Pro Image Preview",
+      "providerId": "zenmux",
+      "updated": "2025-03-20"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": true,
+        "tool_call": true
+      },
       "id": "google/gemini-3-pro-preview",
       "name": "Gemini 3 Pro Preview",
       "providerId": "zenmux",
       "updated": "2025-11-18"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "google/gemini-3.1-flash-lite-preview",
+      "name": "Gemini 3.1 Flash Lite Preview",
+      "providerId": "zenmux",
+      "updated": "2025-03-20"
     },
     {
       "flags": {
@@ -43434,6 +43643,28 @@
       "name": "MiniMax M2.5 highspeed",
       "providerId": "zenmux",
       "updated": "2026-02-13"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "minimax/minimax-m2.7",
+      "name": "MiniMax M2.7",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "minimax/minimax-m2.7-highspeed",
+      "name": "MiniMax M2.7 highspeed",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
     },
     {
       "flags": {
@@ -43580,6 +43811,72 @@
     },
     {
       "flags": {
+        "attachment": true,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "openai/gpt-5.3-chat",
+      "name": "GPT-5.3 Chat",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "openai/gpt-5.3-codex",
+      "name": "GPT-5.3 Codex",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "openai/gpt-5.4",
+      "name": "GPT-5.4",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "openai/gpt-5.4-mini",
+      "name": "GPT-5.4 Mini",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "openai/gpt-5.4-nano",
+      "name": "GPT-5.4 Nano",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "openai/gpt-5.4-pro",
+      "name": "GPT-5.4 Pro",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
         "attachment": false,
         "reasoning": false,
         "tool_call": true
@@ -43599,6 +43896,28 @@
       "name": "Qwen3-Max-Thinking",
       "providerId": "zenmux",
       "updated": "2026-01-23"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "qwen/qwen3.5-flash",
+      "name": "Qwen3.5 Flash",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "qwen/qwen3.5-plus",
+      "name": "Qwen3.5 Plus",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
     },
     {
       "flags": {
@@ -43643,6 +43962,17 @@
       "name": "Doubao-Seed-1.8",
       "providerId": "zenmux",
       "updated": "2025-12-18"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "volcengine/doubao-seed-2.0-code",
+      "name": "Doubao Seed 2.0 Code",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
     },
     {
       "flags": {
@@ -43734,6 +44064,28 @@
     },
     {
       "flags": {
+        "attachment": true,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "x-ai/grok-4.2-fast",
+      "name": "Grok 4.2 Fast",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "x-ai/grok-4.2-fast-non-reasoning",
+      "name": "Grok 4.2 Fast Non Reasoning",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
         "attachment": false,
         "reasoning": true,
         "tool_call": true
@@ -43764,6 +44116,28 @@
       "name": "MiMo-V2-Flash Free",
       "providerId": "zenmux",
       "updated": "2025-12-17"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": false,
+        "tool_call": true
+      },
+      "id": "xiaomi/mimo-v2-omni",
+      "name": "MiMo V2 Omni",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "xiaomi/mimo-v2-pro",
+      "name": "MiMo V2 Pro",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
     },
     {
       "flags": {
@@ -43874,6 +44248,17 @@
       "name": "GLM 5",
       "providerId": "zenmux",
       "updated": "2026-02-12"
+    },
+    {
+      "flags": {
+        "attachment": true,
+        "reasoning": true,
+        "tool_call": true
+      },
+      "id": "z-ai/glm-5-turbo",
+      "name": "GLM 5 Turbo",
+      "providerId": "zenmux",
+      "updated": "2026-03-20"
     },
     {
       "flags": {
@@ -44265,7 +44650,7 @@
       "doc": "https://api.cortecs.ai/v1/models",
       "iconURL": "https://models.dev/logos/cortecs.svg",
       "id": "cortecs",
-      "modelCount": 23,
+      "modelCount": 24,
       "name": "Cortecs"
     },
     {
@@ -44297,7 +44682,7 @@
       "api": "https://www.volcengine.com/docs/82379",
       "id": "doubao",
       "lobeIcon": "Doubao.Color",
-      "modelCount": 3,
+      "modelCount": 16,
       "name": "豆包"
     },
     {
@@ -44658,11 +45043,12 @@
     },
     {
       "api": "https://integrate.api.nvidia.com/v1",
-      "doc": "https://docs.api.nvidia.com/nim/",
+      "doc": "https://docs.api.nvidia.com/",
       "iconURL": "https://models.dev/logos/nvidia.svg",
       "id": "nvidia",
-      "modelCount": 73,
-      "name": "Nvidia"
+      "lobeIcon": "SiNvidia",
+      "modelCount": 75,
+      "name": "NVIDIA"
     },
     {
       "api": "https://ollama.com/v1",
@@ -44881,7 +45267,7 @@
       "iconURL": "https://models.dev/logos/vercel.svg",
       "id": "vercel",
       "lobeIcon": "Vercel.Color",
-      "modelCount": 220,
+      "modelCount": 221,
       "name": "Vercel AI Gateway"
     },
     {
@@ -44947,7 +45333,7 @@
       "doc": "https://docs.zenmux.ai",
       "iconURL": "https://models.dev/logos/zenmux.svg",
       "id": "zenmux",
-      "modelCount": 69,
+      "modelCount": 87,
       "name": "ZenMux"
     },
     {

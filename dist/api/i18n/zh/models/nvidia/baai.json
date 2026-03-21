@@ -1,0 +1,18 @@
+{
+  "description": "BGE-M3 是由 nvidia 提供的人工智能模型。",
+  "id": "baai/bge-m3",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 8192,
+    "output": 1024
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "vector"
+    ]
+  },
+  "name": "BGE-M3"
+}

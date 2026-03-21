@@ -1,12 +1,31 @@
 {
   "api": "https://integrate.api.nvidia.com/v1",
-  "doc": "https://docs.api.nvidia.com/nim/",
+  "doc": "https://docs.api.nvidia.com/",
   "env": [
     "NVIDIA_API_KEY"
   ],
   "iconURL": "https://models.dev/logos/nvidia.svg",
   "id": "nvidia",
+  "lobeIcon": "SiNvidia",
   "models": {
+    "baai": {
+      "description": "BGE-M3 は nvidia によって提供される AI モデルです。",
+      "id": "baai/bge-m3",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "BGE-M3"
+    },
     "black-forest-labs/flux.1-dev": {
       "attachment": false,
       "cost": {
@@ -1423,6 +1442,24 @@
       "temperature": true,
       "tool_call": true
     },
+    "nvidia": {
+      "description": "Embed QA 4 は nvidia によって提供される AI モデルです。",
+      "id": "nvidia/embed-qa-4",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Embed QA 4"
+    },
     "nvidia/cosmos-nemotron-34b": {
       "attachment": false,
       "cost": {
@@ -2203,6 +2240,6 @@
       "tool_call": true
     }
   },
-  "name": "Nvidia",
+  "name": "NVIDIA",
   "npm": "@ai-sdk/openai-compatible"
 }

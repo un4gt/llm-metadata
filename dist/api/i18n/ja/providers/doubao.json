@@ -3,6 +3,144 @@
   "id": "doubao",
   "lobeIcon": "Doubao.Color",
   "models": {
+    "Doubao-embedding": {
+      "description": "Doubao Embedding は doubao によって提供される AI モデルです。",
+      "id": "Doubao-embedding",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Doubao Embedding"
+    },
+    "Doubao-lite-128k": {
+      "description": "Doubao Lite 128K は doubao によって提供される AI モデルです。",
+      "id": "Doubao-lite-128k",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 128000,
+        "output": 8192
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Doubao Lite 128K",
+      "temperature": true,
+      "tool_call": true
+    },
+    "Doubao-lite-32k": {
+      "description": "Doubao Lite 32K は doubao によって提供される AI モデルです。",
+      "id": "Doubao-lite-32k",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 32000,
+        "output": 8192
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Doubao Lite 32K",
+      "temperature": true,
+      "tool_call": true
+    },
+    "Doubao-lite-4k": {
+      "description": "Doubao Lite 4K は doubao によって提供される AI モデルです。",
+      "id": "Doubao-lite-4k",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 4096,
+        "output": 4096
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Doubao Lite 4K",
+      "temperature": true,
+      "tool_call": true
+    },
+    "Doubao-pro-128k": {
+      "description": "Doubao Pro 128K は doubao によって提供される AI モデルです。",
+      "id": "Doubao-pro-128k",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 128000,
+        "output": 8192
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Doubao Pro 128K",
+      "temperature": true,
+      "tool_call": true
+    },
+    "Doubao-pro-32k": {
+      "description": "Doubao Pro 32K は doubao によって提供される AI モデルです。",
+      "id": "Doubao-pro-32k",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 32000,
+        "output": 8192
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Doubao Pro 32K",
+      "temperature": true,
+      "tool_call": true
+    },
+    "Doubao-pro-4k": {
+      "description": "Doubao Pro 4K は doubao によって提供される AI モデルです。",
+      "id": "Doubao-pro-4k",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 4096,
+        "output": 4096
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Doubao Pro 4K",
+      "temperature": true,
+      "tool_call": true
+    },
     "doubao-seed-1-6": {
       "description": "一款（いっかん）ByteDance（バイトダンス）がリリースした多モーダル大言語モデル",
       "id": "doubao-seed-1-6",
@@ -74,6 +212,116 @@
       "release_date": "2025-06-11",
       "temperature": true,
       "tool_call": true
+    },
+    "doubao-seed-1-6-thinking-250715": {
+      "description": "Doubao Seed 1.6 Thinking は doubao によって提供される AI モデルです。",
+      "id": "doubao-seed-1-6-thinking-250715",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 256000,
+        "output": 32000
+      },
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Doubao Seed 1.6 Thinking",
+      "reasoning": true,
+      "release_date": "2025-07-15",
+      "temperature": true,
+      "tool_call": true
+    },
+    "doubao-seedance-1-0-pro-250528": {
+      "description": "Doubao Seedance 1.0 Pro は doubao によって提供される AI モデルです。",
+      "id": "doubao-seedance-1-0-pro-250528",
+      "last_updated": "2026-03-20",
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "video"
+        ]
+      },
+      "name": "Doubao Seedance 1.0 Pro",
+      "release_date": "2025-05-28"
+    },
+    "doubao-seedream-4-0-250828": {
+      "description": "Doubao Seedream 4.0 は doubao によって提供される AI モデルです。",
+      "id": "doubao-seedream-4-0-250828",
+      "last_updated": "2026-03-20",
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "image"
+        ]
+      },
+      "name": "Doubao Seedream 4.0",
+      "release_date": "2025-08-28"
+    },
+    "seed-1-6-thinking-250715": {
+      "description": "Seed 1.6 Thinking は doubao によって提供される AI モデルです。",
+      "id": "seed-1-6-thinking-250715",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 256000,
+        "output": 32000
+      },
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Seed 1.6 Thinking",
+      "reasoning": true,
+      "release_date": "2025-07-15",
+      "temperature": true,
+      "tool_call": true
+    },
+    "seedance-1-0-pro-250528": {
+      "description": "Seedance 1.0 Pro は doubao によって提供される AI モデルです。",
+      "id": "seedance-1-0-pro-250528",
+      "last_updated": "2026-03-20",
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "video"
+        ]
+      },
+      "name": "Seedance 1.0 Pro",
+      "release_date": "2025-05-28"
+    },
+    "seedream-4-0-250828": {
+      "description": "Seedream 4.0 は doubao によって提供される AI モデルです。",
+      "id": "seedream-4-0-250828",
+      "last_updated": "2026-03-20",
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "image"
+        ]
+      },
+      "name": "Seedream 4.0",
+      "release_date": "2025-08-28"
     }
   }
 }

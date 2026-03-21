@@ -1,0 +1,20 @@
+{
+  "description": "Doubao Pro 4K is an AI model provided by doubao.",
+  "id": "Doubao-pro-4k",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 4096,
+    "output": 4096
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "name": "豆包 Pro 4K",
+  "temperature": true,
+  "tool_call": true
+}

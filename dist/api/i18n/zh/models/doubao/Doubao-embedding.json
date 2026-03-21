@@ -1,0 +1,18 @@
+{
+  "description": "Doubao Embedding is an AI model provided by doubao.",
+  "id": "Doubao-embedding",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 8192,
+    "output": 1024
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "vector"
+    ]
+  },
+  "name": "豆包向量"
+}

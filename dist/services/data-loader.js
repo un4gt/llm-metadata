@@ -104,6 +104,13 @@ export class DataLoader {
                 return undefined;
             }
         };
+        // overrides/models 文件名中的 "__" 会被还原为 "/"
+        // 例：nvidia__nv-embed-v1.json -> nvidia/nv-embed-v1
+        const decodeModelIdFromFile = (fileNameWithoutExt) => {
+            if (!fileNameWithoutExt)
+                return fileNameWithoutExt;
+            return fileNameWithoutExt.replace(/__/g, '/');
+        };
         const sanitizeModelOverride = (obj) => {
             if (!obj || typeof obj !== 'object')
                 return {};
@@ -147,7 +154,7 @@ export class DataLoader {
                     const full = join(pDir, file);
                     if (!statSync(full).isFile() || extname(full) !== '.json')
                         continue;
-                    const modelId = basename(full, '.json');
+                    const modelId = decodeModelIdFromFile(basename(full, '.json'));
                     const obj = readJSON(full);
                     if (obj)
                         mergeModelOverride(provider, modelId, sanitizeModelOverride(obj));
@@ -173,7 +180,7 @@ export class DataLoader {
                     const full = join(pDir, file);
                     if (!statSync(full).isFile() || extname(full) !== '.json')
                         continue;
-                    const modelId = basename(full, '.json');
+                    const modelId = decodeModelIdFromFile(basename(full, '.json'));
                     const obj = readJSON(full);
                     if (obj)
                         mergeModelI18n(provider, modelId, obj);

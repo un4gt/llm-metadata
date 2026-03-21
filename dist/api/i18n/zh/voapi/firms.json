@@ -226,7 +226,7 @@
       "doc": "https://api.cortecs.ai/v1/models",
       "icon": "https://models.dev/logos/cortecs.svg",
       "id": "cortecs",
-      "modelCount": 23,
+      "modelCount": 24,
       "name": "Cortecs",
       "status": 1
     },
@@ -266,7 +266,7 @@
       "doc": "",
       "icon": "lb:doubao-color",
       "id": "doubao",
-      "modelCount": 3,
+      "modelCount": 16,
       "name": "豆包",
       "status": 1
     },
@@ -703,11 +703,11 @@
     {
       "api": "https://integrate.api.nvidia.com/v1",
       "description": "",
-      "doc": "https://docs.api.nvidia.com/nim/",
-      "icon": "https://models.dev/logos/nvidia.svg",
+      "doc": "https://docs.api.nvidia.com/",
+      "icon": "lb:sinvidia",
       "id": "nvidia",
-      "modelCount": 73,
-      "name": "Nvidia",
+      "modelCount": 75,
+      "name": "NVIDIA",
       "status": 1
     },
     {
@@ -976,7 +976,7 @@
       "doc": "https://github.com/vercel/ai/tree/5eb85cc45a259553501f535b8ac79a77d0e79223/packages/gateway",
       "icon": "lb:vercel-color",
       "id": "vercel",
-      "modelCount": 220,
+      "modelCount": 221,
       "name": "Vercel AI Gateway",
       "status": 1
     },
@@ -1056,7 +1056,7 @@
       "doc": "https://docs.zenmux.ai",
       "icon": "https://models.dev/logos/zenmux.svg",
       "id": "zenmux",
-      "modelCount": 69,
+      "modelCount": 87,
       "name": "ZenMux",
       "status": 1
     },

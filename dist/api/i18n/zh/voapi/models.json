@@ -36877,6 +36877,42 @@
       "tags": []
     },
     {
+      "description": "MiniMax-M2.5 是由 cortecs 提供的人工智能模型。",
+      "firm": "cortecs",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": true,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "minimax-m2.5",
+      "knowledge": null,
+      "lastUpdated": "2026-02-12",
+      "maxCtxTokens": 196608,
+      "maxOutputTokens": 196608,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "MiniMax-M2.5",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.32,
+        "output": 1.18
+      },
+      "releaseDate": "2026-02-12",
+      "tags": []
+    },
+    {
       "description": "Nova Pro 1.0 是由 cortecs 提供的人工智能模型。",
       "firm": "cortecs",
       "flags": {
@@ -38217,6 +38253,258 @@
       "tags": []
     },
     {
+      "description": "Doubao Embedding is an AI model provided by doubao.",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:doubao-color",
+      "id": "Doubao-embedding",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "豆包向量",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Doubao Lite 128K is an AI model provided by doubao.",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "lb:doubao-color",
+      "id": "Doubao-lite-128k",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 128000,
+      "maxOutputTokens": 8192,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "豆包 Lite 128K",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Doubao Lite 32K is an AI model provided by doubao.",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "lb:doubao-color",
+      "id": "Doubao-lite-32k",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 32000,
+      "maxOutputTokens": 8192,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "豆包 Lite 32K",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Doubao Lite 4K is an AI model provided by doubao.",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "lb:doubao-color",
+      "id": "Doubao-lite-4k",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 4096,
+      "maxOutputTokens": 4096,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "豆包 Lite 4K",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Doubao Pro 128K is an AI model provided by doubao.",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "lb:doubao-color",
+      "id": "Doubao-pro-128k",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 128000,
+      "maxOutputTokens": 8192,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "豆包 Pro 128K",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Doubao Pro 32K is an AI model provided by doubao.",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "lb:doubao-color",
+      "id": "Doubao-pro-32k",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 32000,
+      "maxOutputTokens": 8192,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "豆包 Pro 32K",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Doubao Pro 4K is an AI model provided by doubao.",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "lb:doubao-color",
+      "id": "Doubao-pro-4k",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 4096,
+      "maxOutputTokens": 4096,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "豆包 Pro 4K",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
       "description": "一款由字节跳动推出的多模态大语言模型",
       "firm": "doubao",
       "flags": {
@@ -38325,6 +38613,228 @@
         "output": null
       },
       "releaseDate": "2025-06-11",
+      "tags": []
+    },
+    {
+      "description": "Doubao Seed 1.6 Thinking is an AI model provided by doubao.",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "lb:doubao-color",
+      "id": "doubao-seed-1-6-thinking-250715",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 256000,
+      "maxOutputTokens": 32000,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "豆包 Seed 1.6 Thinking",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": "2025-07-15",
+      "tags": []
+    },
+    {
+      "description": "Doubao Seedance 1.0 Pro is an AI model provided by doubao.",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:doubao-color",
+      "id": "doubao-seedance-1-0-pro-250528",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 0,
+      "maxOutputTokens": 0,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "video"
+        ]
+      },
+      "name": "豆包 Seedance 1.0 Pro",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": "2025-05-28",
+      "tags": []
+    },
+    {
+      "description": "Doubao Seedream 4.0 is an AI model provided by doubao.",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:doubao-color",
+      "id": "doubao-seedream-4-0-250828",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 0,
+      "maxOutputTokens": 0,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "image"
+        ]
+      },
+      "name": "豆包 Seedream 4.0",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": "2025-08-28",
+      "tags": []
+    },
+    {
+      "description": "Seed 1.6 Thinking 是由 doubao 提供的人工智能模型。",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "lb:doubao-color",
+      "id": "seed-1-6-thinking-250715",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 256000,
+      "maxOutputTokens": 32000,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Seed 1.6 Thinking",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": "2025-07-15",
+      "tags": []
+    },
+    {
+      "description": "Seedance 1.0 Pro 是由 doubao 提供的人工智能模型。",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:doubao-color",
+      "id": "seedance-1-0-pro-250528",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 0,
+      "maxOutputTokens": 0,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "video"
+        ]
+      },
+      "name": "Seedance 1.0 Pro",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": "2025-05-28",
+      "tags": []
+    },
+    {
+      "description": "Seedream 4.0 是由 doubao 提供的人工智能模型。",
+      "firm": "doubao",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:doubao-color",
+      "id": "seedream-4-0-250828",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 0,
+      "maxOutputTokens": 0,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "image"
+        ]
+      },
+      "name": "Seedream 4.0",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": "2025-08-28",
       "tags": []
     },
     {
@@ -41109,7 +41619,7 @@
       "id": "claude-haiku-4.5",
       "knowledge": "2025-02-28",
       "lastUpdated": "2025-10-15",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 144000,
       "maxOutputTokens": 32000,
       "modalities": {
         "input": [
@@ -41146,7 +41656,7 @@
       "id": "claude-opus-4.5",
       "knowledge": "2025-03-31",
       "lastUpdated": "2025-08-01",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 160000,
       "maxOutputTokens": 32000,
       "modalities": {
         "input": [
@@ -41183,7 +41693,7 @@
       "id": "claude-opus-4.6",
       "knowledge": "2025-03-31",
       "lastUpdated": "2026-02-05",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 144000,
       "maxOutputTokens": 64000,
       "modalities": {
         "input": [
@@ -41257,7 +41767,7 @@
       "id": "claude-sonnet-4",
       "knowledge": "2025-03-31",
       "lastUpdated": "2025-05-22",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 216000,
       "maxOutputTokens": 16000,
       "modalities": {
         "input": [
@@ -41294,7 +41804,7 @@
       "id": "claude-sonnet-4.5",
       "knowledge": "2025-03-31",
       "lastUpdated": "2025-09-29",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 144000,
       "maxOutputTokens": 32000,
       "modalities": {
         "input": [
@@ -41331,7 +41841,7 @@
       "id": "claude-sonnet-4.6",
       "knowledge": null,
       "lastUpdated": "2026-02-17",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 200000,
       "maxOutputTokens": 32000,
       "modalities": {
         "input": [
@@ -41522,7 +42032,7 @@
       "id": "gpt-4.1",
       "knowledge": "2024-04",
       "lastUpdated": "2025-04-14",
-      "maxCtxTokens": 64000,
+      "maxCtxTokens": 128000,
       "maxOutputTokens": 16384,
       "modalities": {
         "input": [
@@ -41559,8 +42069,8 @@
       "id": "gpt-4o",
       "knowledge": "2023-09",
       "lastUpdated": "2024-05-13",
-      "maxCtxTokens": 64000,
-      "maxOutputTokens": 16384,
+      "maxCtxTokens": 128000,
+      "maxOutputTokens": 4096,
       "modalities": {
         "input": [
           "text",
@@ -41633,7 +42143,7 @@
       "id": "gpt-5-mini",
       "knowledge": "2024-06",
       "lastUpdated": "2025-08-13",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 264000,
       "maxOutputTokens": 64000,
       "modalities": {
         "input": [
@@ -41670,7 +42180,7 @@
       "id": "gpt-5.1",
       "knowledge": "2024-09-30",
       "lastUpdated": "2025-11-13",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 264000,
       "maxOutputTokens": 64000,
       "modalities": {
         "input": [
@@ -41707,7 +42217,7 @@
       "id": "gpt-5.1-codex",
       "knowledge": "2024-09-30",
       "lastUpdated": "2025-11-13",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 400000,
       "maxOutputTokens": 128000,
       "modalities": {
         "input": [
@@ -41744,7 +42254,7 @@
       "id": "gpt-5.1-codex-max",
       "knowledge": "2024-09-30",
       "lastUpdated": "2025-12-04",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 400000,
       "maxOutputTokens": 128000,
       "modalities": {
         "input": [
@@ -41781,7 +42291,7 @@
       "id": "gpt-5.1-codex-mini",
       "knowledge": "2024-09-30",
       "lastUpdated": "2025-11-13",
-      "maxCtxTokens": 128000,
+      "maxCtxTokens": 400000,
       "maxOutputTokens": 128000,
       "modalities": {
         "input": [
@@ -95502,6 +96012,42 @@
       "tags": []
     },
     {
+      "description": "BGE-M3 是由 nvidia 提供的人工智能模型。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "baai",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "BGE-M3",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
       "description": "FLUX.1-dev 是由 nvidia 提供的人工智能模型。",
       "firm": "nvidia",
       "flags": {
@@ -95513,7 +96059,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "black-forest-labs/flux.1-dev",
       "knowledge": "2024-08",
       "lastUpdated": "2025-09-05",
@@ -95549,7 +96095,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "deepseek-ai/deepseek-coder-6.7b-instruct",
       "knowledge": null,
       "lastUpdated": "2023-10-29",
@@ -95585,7 +96131,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "deepseek-ai/deepseek-r1",
       "knowledge": null,
       "lastUpdated": "2025-01-20",
@@ -95621,7 +96167,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "deepseek-ai/deepseek-r1-0528",
       "knowledge": null,
       "lastUpdated": "2025-05-28",
@@ -95657,7 +96203,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "deepseek-ai/deepseek-v3.1",
       "knowledge": "2024-07",
       "lastUpdated": "2025-08-26",
@@ -95693,7 +96239,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "deepseek-ai/deepseek-v3.1-terminus",
       "knowledge": "2025-01",
       "lastUpdated": "2025-09-22",
@@ -95729,7 +96275,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "deepseek-ai/deepseek-v3.2",
       "knowledge": "2024-07",
       "lastUpdated": "2025-12-01",
@@ -95765,7 +96311,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "google/codegemma-1.1-7b",
       "knowledge": null,
       "lastUpdated": "2024-04-30",
@@ -95801,7 +96347,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "google/codegemma-7b",
       "knowledge": null,
       "lastUpdated": "2024-03-21",
@@ -95837,7 +96383,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "google/gemma-2-27b-it",
       "knowledge": null,
       "lastUpdated": "2024-06-24",
@@ -95873,7 +96419,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "google/gemma-2-2b-it",
       "knowledge": null,
       "lastUpdated": "2024-07-16",
@@ -95909,7 +96455,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "google/gemma-3-12b-it",
       "knowledge": null,
       "lastUpdated": "2025-03-01",
@@ -95945,7 +96491,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "google/gemma-3-1b-it",
       "knowledge": null,
       "lastUpdated": "2025-03-10",
@@ -95982,7 +96528,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "google/gemma-3-27b-it",
       "knowledge": "2024-12",
       "lastUpdated": "2025-09-05",
@@ -96019,7 +96565,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "google/gemma-3n-e2b-it",
       "knowledge": "2024-06",
       "lastUpdated": "2025-06-12",
@@ -96056,7 +96602,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "google/gemma-3n-e4b-it",
       "knowledge": "2024-06",
       "lastUpdated": "2025-06-03",
@@ -96093,7 +96639,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "meta/codellama-70b",
       "knowledge": null,
       "lastUpdated": "2024-01-29",
@@ -96129,7 +96675,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "meta/llama-3.1-405b-instruct",
       "knowledge": null,
       "lastUpdated": "2024-07-16",
@@ -96165,7 +96711,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "meta/llama-3.1-70b-instruct",
       "knowledge": null,
       "lastUpdated": "2024-07-16",
@@ -96201,7 +96747,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "meta/llama-3.2-11b-vision-instruct",
       "knowledge": "2023-12",
       "lastUpdated": "2024-09-18",
@@ -96238,7 +96784,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "meta/llama-3.2-1b-instruct",
       "knowledge": "2023-12",
       "lastUpdated": "2024-09-18",
@@ -96274,7 +96820,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "meta/llama-3.3-70b-instruct",
       "knowledge": null,
       "lastUpdated": "2024-11-26",
@@ -96310,7 +96856,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "meta/llama-4-maverick-17b-128e-instruct",
       "knowledge": "2024-02",
       "lastUpdated": "2025-04-01",
@@ -96347,7 +96893,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "meta/llama-4-scout-17b-16e-instruct",
       "knowledge": "2024-02",
       "lastUpdated": "2025-04-02",
@@ -96384,7 +96930,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "meta/llama3-70b-instruct",
       "knowledge": null,
       "lastUpdated": "2024-04-17",
@@ -96420,7 +96966,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "meta/llama3-8b-instruct",
       "knowledge": null,
       "lastUpdated": "2024-04-17",
@@ -96456,7 +97002,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "microsoft/phi-3-medium-128k-instruct",
       "knowledge": "2023-10",
       "lastUpdated": "2024-05-07",
@@ -96493,7 +97039,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "microsoft/phi-3-medium-4k-instruct",
       "knowledge": "2023-10",
       "lastUpdated": "2024-05-07",
@@ -96530,7 +97076,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "microsoft/phi-3-small-128k-instruct",
       "knowledge": "2023-10",
       "lastUpdated": "2024-05-07",
@@ -96567,7 +97113,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "microsoft/phi-3-small-8k-instruct",
       "knowledge": "2023-10",
       "lastUpdated": "2024-05-07",
@@ -96604,7 +97150,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "microsoft/phi-3-vision-128k-instruct",
       "knowledge": null,
       "lastUpdated": "2024-05-19",
@@ -96641,7 +97187,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "microsoft/phi-3.5-moe-instruct",
       "knowledge": null,
       "lastUpdated": "2024-08-17",
@@ -96677,7 +97223,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "microsoft/phi-3.5-vision-instruct",
       "knowledge": null,
       "lastUpdated": "2024-08-16",
@@ -96714,7 +97260,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "microsoft/phi-4-mini-instruct",
       "knowledge": "2024-12",
       "lastUpdated": "2025-09-05",
@@ -96752,7 +97298,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "minimaxai/minimax-m2.1",
       "knowledge": null,
       "lastUpdated": "2025-12-23",
@@ -96788,7 +97334,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "minimaxai/minimax-m2.5",
       "knowledge": "2025-08",
       "lastUpdated": "2026-02-12",
@@ -96824,7 +97370,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "mistralai/codestral-22b-instruct-v0.1",
       "knowledge": null,
       "lastUpdated": "2024-05-29",
@@ -96860,7 +97406,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "mistralai/devstral-2-123b-instruct-2512",
       "knowledge": "2025-12",
       "lastUpdated": "2025-12-09",
@@ -96896,7 +97442,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "mistralai/mamba-codestral-7b-v0.1",
       "knowledge": null,
       "lastUpdated": "2024-07-16",
@@ -96932,7 +97478,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "mistralai/ministral-14b-instruct-2512",
       "knowledge": "2025-12",
       "lastUpdated": "2025-12-08",
@@ -96969,7 +97515,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "mistralai/mistral-large-2-instruct",
       "knowledge": null,
       "lastUpdated": "2024-07-24",
@@ -97005,7 +97551,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "mistralai/mistral-large-3-675b-instruct-2512",
       "knowledge": "2025-01",
       "lastUpdated": "2025-12-02",
@@ -97042,7 +97588,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "mistralai/mistral-small-3.1-24b-instruct-2503",
       "knowledge": null,
       "lastUpdated": "2025-03-11",
@@ -97078,7 +97624,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "moonshotai/kimi-k2-instruct",
       "knowledge": "2024-01",
       "lastUpdated": "2025-09-05",
@@ -97114,7 +97660,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "moonshotai/kimi-k2-instruct-0905",
       "knowledge": "2024-10",
       "lastUpdated": "2025-09-05",
@@ -97150,7 +97696,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "moonshotai/kimi-k2-thinking",
       "knowledge": "2025-07",
       "lastUpdated": "2025-12",
@@ -97186,7 +97732,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "moonshotai/kimi-k2.5",
       "knowledge": "2025-07",
       "lastUpdated": "2026-01-27",
@@ -97213,6 +97759,42 @@
       "tags": []
     },
     {
+      "description": "Embed QA 4 是由 nvidia 提供的人工智能模型。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Embed QA 4",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
       "description": "Cosmos Nemotron 34B 是由 nvidia 提供的人工智能模型。",
       "firm": "nvidia",
       "flags": {
@@ -97224,7 +97806,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/cosmos-nemotron-34b",
       "knowledge": "2024-01",
       "lastUpdated": "2025-09-05",
@@ -97262,7 +97844,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/llama-3.1-nemotron-51b-instruct",
       "knowledge": null,
       "lastUpdated": "2024-09-22",
@@ -97298,7 +97880,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/llama-3.1-nemotron-70b-instruct",
       "knowledge": null,
       "lastUpdated": "2024-10-12",
@@ -97334,7 +97916,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
       "knowledge": "2024-07",
       "lastUpdated": "2025-09-05",
@@ -97370,7 +97952,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/llama-3.3-nemotron-super-49b-v1",
       "knowledge": null,
       "lastUpdated": "2025-03-16",
@@ -97406,7 +97988,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
       "knowledge": null,
       "lastUpdated": "2025-03-16",
@@ -97442,7 +98024,7 @@
         "temperature": false,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/llama-embed-nemotron-8b",
       "knowledge": "2025-03",
       "lastUpdated": "2025-03-18",
@@ -97478,7 +98060,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/llama3-chatqa-1.5-70b",
       "knowledge": null,
       "lastUpdated": "2024-04-28",
@@ -97514,7 +98096,7 @@
         "temperature": false,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/nemoretriever-ocr-v1",
       "knowledge": "2024-01",
       "lastUpdated": "2025-09-05",
@@ -97550,7 +98132,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/nemotron-3-nano-30b-a3b",
       "knowledge": "2024-09",
       "lastUpdated": "2024-12",
@@ -97586,7 +98168,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/nemotron-4-340b-instruct",
       "knowledge": null,
       "lastUpdated": "2024-06-13",
@@ -97622,7 +98204,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/nvidia-nemotron-nano-9b-v2",
       "knowledge": "2024-09",
       "lastUpdated": "2025-08-18",
@@ -97658,7 +98240,7 @@
         "temperature": false,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "nvidia/parakeet-tdt-0.6b-v2",
       "knowledge": "2024-01",
       "lastUpdated": "2025-09-05",
@@ -97694,7 +98276,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "openai/gpt-oss-120b",
       "knowledge": "2025-08",
       "lastUpdated": "2025-08-14",
@@ -97730,7 +98312,7 @@
         "temperature": false,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "openai/whisper-large-v3",
       "knowledge": "2023-09",
       "lastUpdated": "2025-09-05",
@@ -97766,7 +98348,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "qwen/qwen2.5-coder-32b-instruct",
       "knowledge": null,
       "lastUpdated": "2024-11-06",
@@ -97802,7 +98384,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "qwen/qwen2.5-coder-7b-instruct",
       "knowledge": null,
       "lastUpdated": "2024-09-17",
@@ -97838,7 +98420,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "qwen/qwen3-235b-a22b",
       "knowledge": "2024-12",
       "lastUpdated": "2025-09-05",
@@ -97874,7 +98456,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "qwen/qwen3-coder-480b-a35b-instruct",
       "knowledge": "2025-04",
       "lastUpdated": "2025-07-23",
@@ -97910,7 +98492,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "qwen/qwen3-next-80b-a3b-instruct",
       "knowledge": "2024-12",
       "lastUpdated": "2025-09-05",
@@ -97946,7 +98528,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "qwen/qwen3-next-80b-a3b-thinking",
       "knowledge": "2024-12",
       "lastUpdated": "2025-09-05",
@@ -97982,7 +98564,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "qwen/qwen3.5-397b-a17b",
       "knowledge": "2026-01",
       "lastUpdated": "2026-02-16",
@@ -98019,7 +98601,7 @@
         "temperature": true,
         "tool_call": false
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "qwen/qwq-32b",
       "knowledge": null,
       "lastUpdated": "2025-03-05",
@@ -98055,7 +98637,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "stepfun-ai/step-3.5-flash",
       "knowledge": null,
       "lastUpdated": "2026-02-02",
@@ -98091,7 +98673,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "z-ai/glm4.7",
       "knowledge": "2025-04",
       "lastUpdated": "2025-12-22",
@@ -98127,7 +98709,7 @@
         "temperature": true,
         "tool_call": true
       },
-      "icon": "",
+      "icon": "lb:sinvidia",
       "id": "z-ai/glm5",
       "knowledge": null,
       "lastUpdated": "2026-02-12",
@@ -122885,7 +123467,7 @@
       },
       "icon": "",
       "id": "qwen3.5-397b-a17b",
-      "knowledge": null,
+      "knowledge": "2025-04",
       "lastUpdated": "2026-03-17",
       "maxCtxTokens": 256000,
       "maxOutputTokens": 16384,
@@ -140676,6 +141258,42 @@
       "tags": []
     },
     {
+      "description": "MiMo V2 Pro 是由 vercel 提供的人工智能模型。",
+      "firm": "vercel",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "lb:vercel-color",
+      "id": "xiaomi/mimo-v2-pro",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 1000000,
+      "maxOutputTokens": 128000,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "MiMo V2 Pro",
+      "price": {
+        "cacheRead": 0.19999999999999998,
+        "cacheWrite": null,
+        "input": 1,
+        "output": 3
+      },
+      "releaseDate": "2026-03-18",
+      "tags": []
+    },
+    {
       "description": "GLM 4.5 是由 vercel 提供的人工智能模型。",
       "firm": "vercel",
       "flags": {
@@ -144855,6 +145473,46 @@
       "tags": []
     },
     {
+      "description": "Gemini 3 Pro Image Preview 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": true,
+        "image": true,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "google/gemini-3-pro-image-preview",
+      "knowledge": "2025-01-01",
+      "lastUpdated": "2025-03-20",
+      "maxCtxTokens": 1048000,
+      "maxOutputTokens": 64000,
+      "modalities": {
+        "input": [
+          "text",
+          "image",
+          "pdf",
+          "audio",
+          "video"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Gemini 3 Pro Image Preview",
+      "price": {
+        "cacheRead": 0.2,
+        "cacheWrite": 4.5,
+        "input": 2,
+        "output": 12
+      },
+      "releaseDate": "2025-03-20",
+      "tags": []
+    },
+    {
       "description": "Gemini 3 Pro Preview 是由 zenmux 提供的人工智能模型。",
       "firm": "zenmux",
       "flags": {
@@ -144892,6 +145550,45 @@
         "output": 12
       },
       "releaseDate": "2025-11-18",
+      "tags": []
+    },
+    {
+      "description": "Gemini 3.1 Flash Lite Preview 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": true,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "google/gemini-3.1-flash-lite-preview",
+      "knowledge": null,
+      "lastUpdated": "2025-03-20",
+      "maxCtxTokens": 1050000,
+      "maxOutputTokens": 65530,
+      "modalities": {
+        "input": [
+          "text",
+          "image",
+          "audio",
+          "video"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Gemini 3.1 Flash Lite Preview",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.25,
+        "output": 1.5
+      },
+      "releaseDate": "2025-03-20",
       "tags": []
     },
     {
@@ -145220,6 +145917,78 @@
         "output": 4.8
       },
       "releaseDate": "2026-02-13",
+      "tags": []
+    },
+    {
+      "description": "MiniMax M2.7 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "minimax/minimax-m2.7",
+      "knowledge": "2025-01-01",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 204800,
+      "maxOutputTokens": 131070,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "MiniMax M2.7",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.3055,
+        "output": 1.2219
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
+      "description": "MiniMax M2.7 highspeed 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "minimax/minimax-m2.7-highspeed",
+      "knowledge": "2025-01-01",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 204800,
+      "maxOutputTokens": 131070,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "MiniMax M2.7 highspeed",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.611,
+        "output": 2.4439
+      },
+      "releaseDate": "2026-03-20",
       "tags": []
     },
     {
@@ -145708,6 +146477,224 @@
       "tags": []
     },
     {
+      "description": "GPT-5.3 Chat 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "openai/gpt-5.3-chat",
+      "knowledge": "2025-08-31",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 128000,
+      "maxOutputTokens": 16380,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "GPT-5.3 Chat",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 1.75,
+        "output": 14
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
+      "description": "GPT-5.3 Codex 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "openai/gpt-5.3-codex",
+      "knowledge": "2025-08-31",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 400000,
+      "maxOutputTokens": 128000,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "GPT-5.3 Codex",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 1.75,
+        "output": 14
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
+      "description": "GPT-5.4 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "openai/gpt-5.4",
+      "knowledge": "2025-08-31",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 1050000,
+      "maxOutputTokens": 128000,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "GPT-5.4",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 3.75,
+        "output": 18.75
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
+      "description": "GPT-5.4 Mini 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "openai/gpt-5.4-mini",
+      "knowledge": "2025-08-31",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 400000,
+      "maxOutputTokens": 128000,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "GPT-5.4 Mini",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.75,
+        "output": 4.5
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
+      "description": "GPT-5.4 Nano 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "openai/gpt-5.4-nano",
+      "knowledge": "2025-08-31",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 400000,
+      "maxOutputTokens": 128000,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "GPT-5.4 Nano",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.2,
+        "output": 1.25
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
+      "description": "GPT-5.4 Pro 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "openai/gpt-5.4-pro",
+      "knowledge": "2025-08-31",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 1050000,
+      "maxOutputTokens": 128000,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "GPT-5.4 Pro",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 45,
+        "output": 225
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
       "description": "Qwen3-Coder-Plus 是由 zenmux 提供的人工智能模型。",
       "firm": "zenmux",
       "flags": {
@@ -145777,6 +146764,80 @@
         "output": 6
       },
       "releaseDate": "2026-01-23",
+      "tags": []
+    },
+    {
+      "description": "Qwen3.5 Flash 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "qwen/qwen3.5-flash",
+      "knowledge": "2025-01-01",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 1020000,
+      "maxOutputTokens": 1020000,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Qwen3.5 Flash",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.1,
+        "output": 0.4
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
+      "description": "Qwen3.5 Plus 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "qwen/qwen3.5-plus",
+      "knowledge": "2025-01-01",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 1000000,
+      "maxOutputTokens": 64000,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Qwen3.5 Plus",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.8,
+        "output": 4.8
+      },
+      "releaseDate": "2026-03-20",
       "tags": []
     },
     {
@@ -145924,6 +146985,42 @@
         "output": 0.28
       },
       "releaseDate": "2025-12-18",
+      "tags": []
+    },
+    {
+      "description": "Doubao Seed 2.0 Code 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "volcengine/doubao-seed-2.0-code",
+      "knowledge": "2025-01-01",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 256000,
+      "maxOutputTokens": 32000,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Doubao Seed 2.0 Code",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.9,
+        "output": 4.48
+      },
+      "releaseDate": "2026-03-20",
       "tags": []
     },
     {
@@ -146226,6 +147323,82 @@
       "tags": []
     },
     {
+      "description": "Grok 4.2 Fast 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "x-ai/grok-4.2-fast",
+      "knowledge": "2025-08-31",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 2000000,
+      "maxOutputTokens": 30000,
+      "modalities": {
+        "input": [
+          "text",
+          "image",
+          "video"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Grok 4.2 Fast",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 3,
+        "output": 9
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
+      "description": "Grok 4.2 Fast Non Reasoning 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "x-ai/grok-4.2-fast-non-reasoning",
+      "knowledge": "2025-08-31",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 2000000,
+      "maxOutputTokens": 30000,
+      "modalities": {
+        "input": [
+          "text",
+          "image",
+          "video"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "Grok 4.2 Fast Non Reasoning",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 3,
+        "output": 9
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
       "description": "Grok Code Fast 1 是由 zenmux 提供的人工智能模型。",
       "firm": "zenmux",
       "flags": {
@@ -146331,6 +147504,82 @@
         "output": null
       },
       "releaseDate": "2025-12-17",
+      "tags": []
+    },
+    {
+      "description": "MiMo V2 Omni 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "xiaomi/mimo-v2-omni",
+      "knowledge": "2025-01-01",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 265000,
+      "maxOutputTokens": 265000,
+      "modalities": {
+        "input": [
+          "text",
+          "image",
+          "video"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "MiMo V2 Omni",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.4,
+        "output": 2
+      },
+      "releaseDate": "2026-03-20",
+      "tags": []
+    },
+    {
+      "description": "MiMo V2 Pro 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "xiaomi/mimo-v2-pro",
+      "knowledge": "2025-01-01",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 1000000,
+      "maxOutputTokens": 256000,
+      "modalities": {
+        "input": [
+          "text",
+          "image",
+          "video"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "MiMo V2 Pro",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 1.5,
+        "output": 4.5
+      },
+      "releaseDate": "2026-03-20",
       "tags": []
     },
     {
@@ -146697,6 +147946,42 @@
         "output": 2.6
       },
       "releaseDate": "2026-02-12",
+      "tags": []
+    },
+    {
+      "description": "GLM 5 Turbo 是由 zenmux 提供的人工智能模型。",
+      "firm": "zenmux",
+      "flags": {
+        "attachment": true,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": true,
+        "temperature": true,
+        "tool_call": true
+      },
+      "icon": "",
+      "id": "z-ai/glm-5-turbo",
+      "knowledge": "2025-01-01",
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 200000,
+      "maxOutputTokens": 128000,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "text"
+        ]
+      },
+      "name": "GLM 5 Turbo",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": 0.88,
+        "output": 3.48
+      },
+      "releaseDate": "2026-03-20",
       "tags": []
     },
     {
