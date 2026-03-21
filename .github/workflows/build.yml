@@ -27,8 +27,6 @@ on:
         description: 'Force rebuild (ignore auto flags)'
         required: false
         default: 'false'
-  schedule:
-    - cron: '0 */6 * * *'
 
 jobs:
   build:
@@ -124,8 +122,6 @@ jobs:
               else
                 TRIGGER_MSG="triggered by manual dispatch"
               fi
-            elif [ "${{ github.event_name }}" = "schedule" ]; then
-              TRIGGER_MSG="triggered by scheduled run"
             else
               TRIGGER_MSG="triggered by ${{ github.event_name }}"
             fi
