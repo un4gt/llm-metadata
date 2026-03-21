@@ -1,0 +1,18 @@
+{
+  "description": "NV-EmbedQA E5 v5 is an AI model provided by nvidia.",
+  "id": "nvidia/nv-embedqa-e5-v5",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 8192,
+    "output": 1024
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "vector"
+    ]
+  },
+  "name": "NV-EmbedQA E5 v5"
+}

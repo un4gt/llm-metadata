@@ -706,7 +706,7 @@
       "doc": "https://docs.api.nvidia.com/",
       "icon": "lb:sinvidia",
       "id": "nvidia",
-      "modelCount": 75,
+      "modelCount": 86,
       "name": "NVIDIA",
       "status": 1
     },

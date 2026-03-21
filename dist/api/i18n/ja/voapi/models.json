@@ -96024,7 +96024,7 @@
         "tool_call": false
       },
       "icon": "lb:sinvidia",
-      "id": "baai",
+      "id": "baai/bge-m3",
       "knowledge": null,
       "lastUpdated": "2026-03-20",
       "maxCtxTokens": 8192,
@@ -97759,42 +97759,6 @@
       "tags": []
     },
     {
-      "description": "Embed QA 4 は nvidia によって提供される AI モデルです。",
-      "firm": "nvidia",
-      "flags": {
-        "attachment": false,
-        "audio": false,
-        "image": false,
-        "open_weights": false,
-        "reasoning": false,
-        "temperature": false,
-        "tool_call": false
-      },
-      "icon": "lb:sinvidia",
-      "id": "nvidia",
-      "knowledge": null,
-      "lastUpdated": "2026-03-20",
-      "maxCtxTokens": 8192,
-      "maxOutputTokens": 1024,
-      "modalities": {
-        "input": [
-          "text"
-        ],
-        "output": [
-          "vector"
-        ]
-      },
-      "name": "Embed QA 4",
-      "price": {
-        "cacheRead": null,
-        "cacheWrite": null,
-        "input": null,
-        "output": null
-      },
-      "releaseDate": null,
-      "tags": []
-    },
-    {
       "description": "Cosmos Nemotron 34B は nvidia によって提供される AI モデルです。",
       "firm": "nvidia",
       "flags": {
@@ -97830,6 +97794,114 @@
         "output": null
       },
       "releaseDate": "2024-01-01",
+      "tags": []
+    },
+    {
+      "description": "Embed QA 4 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/embed-qa-4",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Embed QA 4",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Llama 3.2 NeMo Retriever 300M Embed v1 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/llama-3_2-nemoretriever-300m-embed-v1",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama 3.2 NeMo Retriever 300M Embed v1",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Llama 3.2 NeMo Retriever 300M Embed v2 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/llama-3_2-nemoretriever-300m-embed-v2",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama 3.2 NeMo Retriever 300M Embed v2",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
       "tags": []
     },
     {
@@ -97941,6 +98013,115 @@
       "tags": []
     },
     {
+      "description": "Llama 3.2 NeMo Retriever 1B VLM Embed v1 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/llama-3.2-nemoretriever-1b-vlm-embed-v1",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1408,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama 3.2 NeMo Retriever 1B VLM Embed v1",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Llama 3.2 NV EmbedQA 1B v1 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/llama-3.2-nv-embedqa-1b-v1",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama 3.2 NV EmbedQA 1B v1",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Llama 3.2 NV EmbedQA 1B v2 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/llama-3.2-nv-embedqa-1b-v2",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama 3.2 NV EmbedQA 1B v2",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
       "description": "Llama 3.3 Nemotron Super 49b V1 は nvidia によって提供される AI モデルです。",
       "firm": "nvidia",
       "flags": {
@@ -98046,6 +98227,79 @@
         "output": null
       },
       "releaseDate": "2025-03-18",
+      "tags": []
+    },
+    {
+      "description": "Llama Nemotron Embed 1B v2 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/llama-nemotron-embed-1b-v2",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama Nemotron Embed 1B v2",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "Llama Nemotron Embed VL 1B v2 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/llama-nemotron-embed-vl-1b-v2",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1408,
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama Nemotron Embed VL 1B v2",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
       "tags": []
     },
     {
@@ -98190,6 +98444,150 @@
         "output": null
       },
       "releaseDate": "2024-06-13",
+      "tags": []
+    },
+    {
+      "description": "NVIDIA DINOv2 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": true,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/nv-dinov2",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 0,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "image"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "NVIDIA DINOv2",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "NV-Embed v1 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/nv-embed-v1",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "NV-Embed v1",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "NV-EmbedCode 7B v1 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/nv-embedcode-7b-v1",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "NV-EmbedCode 7B v1",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
+      "tags": []
+    },
+    {
+      "description": "NV-EmbedQA E5 v5 は nvidia によって提供される AI モデルです。",
+      "firm": "nvidia",
+      "flags": {
+        "attachment": false,
+        "audio": false,
+        "image": false,
+        "open_weights": false,
+        "reasoning": false,
+        "temperature": false,
+        "tool_call": false
+      },
+      "icon": "lb:sinvidia",
+      "id": "nvidia/nv-embedqa-e5-v5",
+      "knowledge": null,
+      "lastUpdated": "2026-03-20",
+      "maxCtxTokens": 8192,
+      "maxOutputTokens": 1024,
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "NV-EmbedQA E5 v5",
+      "price": {
+        "cacheRead": null,
+        "cacheWrite": null,
+        "input": null,
+        "output": null
+      },
+      "releaseDate": null,
       "tags": []
     },
     {

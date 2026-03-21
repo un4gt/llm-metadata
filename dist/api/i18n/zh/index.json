@@ -28712,7 +28712,7 @@
         "reasoning": false,
         "tool_call": false
       },
-      "id": "baai",
+      "id": "baai/bge-m3",
       "name": "BGE-M3",
       "providerId": "nvidia",
       "updated": "2026-03-20"
@@ -29237,17 +29237,6 @@
     {
       "flags": {
         "attachment": false,
-        "reasoning": false,
-        "tool_call": false
-      },
-      "id": "nvidia",
-      "name": "Embed QA 4",
-      "providerId": "nvidia",
-      "updated": "2026-03-20"
-    },
-    {
-      "flags": {
-        "attachment": false,
         "reasoning": true,
         "tool_call": false
       },
@@ -29255,6 +29244,39 @@
       "name": "Cosmos Nemotron 34B",
       "providerId": "nvidia",
       "updated": "2025-09-05"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/embed-qa-4",
+      "name": "Embed QA 4",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/llama-3_2-nemoretriever-300m-embed-v1",
+      "name": "Llama 3.2 NeMo Retriever 300M Embed v1",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/llama-3_2-nemoretriever-300m-embed-v2",
+      "name": "Llama 3.2 NeMo Retriever 300M Embed v2",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
     },
     {
       "flags": {
@@ -29295,6 +29317,39 @@
         "reasoning": false,
         "tool_call": false
       },
+      "id": "nvidia/llama-3.2-nemoretriever-1b-vlm-embed-v1",
+      "name": "Llama 3.2 NeMo Retriever 1B VLM Embed v1",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/llama-3.2-nv-embedqa-1b-v1",
+      "name": "Llama 3.2 NV EmbedQA 1B v1",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/llama-3.2-nv-embedqa-1b-v2",
+      "name": "Llama 3.2 NV EmbedQA 1B v2",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
       "id": "nvidia/llama-3.3-nemotron-super-49b-v1",
       "name": "Llama 3.3 Nemotron Super 49b V1",
       "providerId": "nvidia",
@@ -29321,6 +29376,28 @@
       "name": "Llama Embed Nemotron 8B",
       "providerId": "nvidia",
       "updated": "2025-03-18"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/llama-nemotron-embed-1b-v2",
+      "name": "Llama Nemotron Embed 1B v2",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/llama-nemotron-embed-vl-1b-v2",
+      "name": "Llama Nemotron Embed VL 1B v2",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
     },
     {
       "flags": {
@@ -29365,6 +29442,50 @@
       "name": "Nemotron 4 340b Instruct",
       "providerId": "nvidia",
       "updated": "2024-06-13"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/nv-dinov2",
+      "name": "NVIDIA DINOv2",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/nv-embed-v1",
+      "name": "NV-Embed v1",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/nv-embedcode-7b-v1",
+      "name": "NV-EmbedCode 7B v1",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nvidia/nv-embedqa-e5-v5",
+      "name": "NV-EmbedQA E5 v5",
+      "providerId": "nvidia",
+      "updated": "2026-03-20"
     },
     {
       "flags": {
@@ -45047,7 +45168,7 @@
       "iconURL": "https://models.dev/logos/nvidia.svg",
       "id": "nvidia",
       "lobeIcon": "SiNvidia",
-      "modelCount": 75,
+      "modelCount": 86,
       "name": "NVIDIA"
     },
     {

@@ -1,0 +1,18 @@
+{
+  "description": "NV-EmbedCode 7B v1 is an AI model provided by nvidia.",
+  "id": "nvidia/nv-embedcode-7b-v1",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 8192,
+    "output": 1024
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "vector"
+    ]
+  },
+  "name": "NV-EmbedCode 7B v1"
+}

@@ -1,0 +1,18 @@
+{
+  "description": "Embed QA 4 は nvidia によって提供される AI モデルです。",
+  "id": "nvidia/embed-qa-4",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 8192,
+    "output": 1024
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "vector"
+    ]
+  },
+  "name": "Embed QA 4"
+}

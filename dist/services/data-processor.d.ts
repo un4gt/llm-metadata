@@ -5,6 +5,8 @@ export declare class DataProcessor {
     constructor();
     /** 创建模型键 */
     private createModelKey;
+    /** 解析 overrides 模型键，支持 modelId 内包含 '/' */
+    private parseModelKey;
     /** 生成默认描述 */
     private generateDefaultDescription;
     /** 按 locale 生成默认描述（fallback 到英文模板） */

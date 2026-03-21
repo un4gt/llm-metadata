@@ -1,0 +1,18 @@
+{
+  "description": "Llama 3.2 NV EmbedQA 1B v1 は nvidia によって提供される AI モデルです。",
+  "id": "nvidia/llama-3.2-nv-embedqa-1b-v1",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 8192,
+    "output": 1024
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "vector"
+    ]
+  },
+  "name": "Llama 3.2 NV EmbedQA 1B v1"
+}

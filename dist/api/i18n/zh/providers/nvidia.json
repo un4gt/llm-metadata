@@ -8,7 +8,7 @@
   "id": "nvidia",
   "lobeIcon": "SiNvidia",
   "models": {
-    "baai": {
+    "baai/bge-m3": {
       "description": "BGE-M3 是由 nvidia 提供的人工智能模型。",
       "id": "baai/bge-m3",
       "last_updated": "2026-03-20",
@@ -1442,24 +1442,6 @@
       "temperature": true,
       "tool_call": true
     },
-    "nvidia": {
-      "description": "Embed QA 4 是由 nvidia 提供的人工智能模型。",
-      "id": "nvidia/embed-qa-4",
-      "last_updated": "2026-03-20",
-      "limit": {
-        "context": 8192,
-        "output": 1024
-      },
-      "modalities": {
-        "input": [
-          "text"
-        ],
-        "output": [
-          "vector"
-        ]
-      },
-      "name": "Embed QA 4"
-    },
     "nvidia/cosmos-nemotron-34b": {
       "attachment": false,
       "cost": {
@@ -1491,6 +1473,24 @@
       "release_date": "2024-01-01",
       "temperature": true,
       "tool_call": false
+    },
+    "nvidia/embed-qa-4": {
+      "description": "Embed QA 4 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/embed-qa-4",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Embed QA 4"
     },
     "nvidia/llama-3.1-nemotron-51b-instruct": {
       "attachment": false,
@@ -1580,6 +1580,61 @@
       "temperature": true,
       "tool_call": true
     },
+    "nvidia/llama-3.2-nemoretriever-1b-vlm-embed-v1": {
+      "description": "Llama 3.2 NeMo Retriever 1B VLM Embed v1 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/llama-3.2-nemoretriever-1b-vlm-embed-v1",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1408
+      },
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama 3.2 NeMo Retriever 1B VLM Embed v1"
+    },
+    "nvidia/llama-3.2-nv-embedqa-1b-v1": {
+      "description": "Llama 3.2 NV EmbedQA 1B v1 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/llama-3.2-nv-embedqa-1b-v1",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama 3.2 NV EmbedQA 1B v1"
+    },
+    "nvidia/llama-3.2-nv-embedqa-1b-v2": {
+      "description": "Llama 3.2 NV EmbedQA 1B v2 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/llama-3.2-nv-embedqa-1b-v2",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama 3.2 NV EmbedQA 1B v2"
+    },
     "nvidia/llama-3.3-nemotron-super-49b-v1": {
       "attachment": false,
       "cost": {
@@ -1638,6 +1693,42 @@
       "temperature": true,
       "tool_call": false
     },
+    "nvidia/llama-3_2-nemoretriever-300m-embed-v1": {
+      "description": "Llama 3.2 NeMo Retriever 300M Embed v1 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/llama-3_2-nemoretriever-300m-embed-v1",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama 3.2 NeMo Retriever 300M Embed v1"
+    },
+    "nvidia/llama-3_2-nemoretriever-300m-embed-v2": {
+      "description": "Llama 3.2 NeMo Retriever 300M Embed v2 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/llama-3_2-nemoretriever-300m-embed-v2",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama 3.2 NeMo Retriever 300M Embed v2"
+    },
     "nvidia/llama-embed-nemotron-8b": {
       "attachment": false,
       "cost": {
@@ -1667,6 +1758,43 @@
       "release_date": "2025-03-18",
       "temperature": false,
       "tool_call": false
+    },
+    "nvidia/llama-nemotron-embed-1b-v2": {
+      "description": "Llama Nemotron Embed 1B v2 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/llama-nemotron-embed-1b-v2",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama Nemotron Embed 1B v2"
+    },
+    "nvidia/llama-nemotron-embed-vl-1b-v2": {
+      "description": "Llama Nemotron Embed VL 1B v2 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/llama-nemotron-embed-vl-1b-v2",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1408
+      },
+      "modalities": {
+        "input": [
+          "text",
+          "image"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "Llama Nemotron Embed VL 1B v2"
     },
     "nvidia/llama3-chatqa-1.5-70b": {
       "attachment": false,
@@ -1785,6 +1913,77 @@
       "structured_output": true,
       "temperature": true,
       "tool_call": true
+    },
+    "nvidia/nv-dinov2": {
+      "description": "NVIDIA DINOv2 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/nv-dinov2",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "image"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "NVIDIA DINOv2"
+    },
+    "nvidia/nv-embed-v1": {
+      "description": "NV-Embed v1 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/nv-embed-v1",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "NV-Embed v1"
+    },
+    "nvidia/nv-embedcode-7b-v1": {
+      "description": "NV-EmbedCode 7B v1 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/nv-embedcode-7b-v1",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "NV-EmbedCode 7B v1"
+    },
+    "nvidia/nv-embedqa-e5-v5": {
+      "description": "NV-EmbedQA E5 v5 是由 nvidia 提供的人工智能模型。",
+      "id": "nvidia/nv-embedqa-e5-v5",
+      "last_updated": "2026-03-20",
+      "limit": {
+        "context": 8192,
+        "output": 1024
+      },
+      "modalities": {
+        "input": [
+          "text"
+        ],
+        "output": [
+          "vector"
+        ]
+      },
+      "name": "NV-EmbedQA E5 v5"
     },
     "nvidia/nvidia-nemotron-nano-9b-v2": {
       "attachment": false,
