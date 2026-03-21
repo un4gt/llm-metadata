@@ -68,6 +68,126 @@
       "release_date": "2025-12-23",
       "temperature": true,
       "tool_call": true
+    },
+    "Qwen3-Embedding-0.6B": {
+      "description": "Qwen3-Embedding-0.6B 是由 moark 提供的人工智能模型。",
+      "id": "Qwen3-Embedding-0.6B",
+      "name": "Qwen3-Embedding-0.6B"
+    },
+    "Qwen3-Embedding-4B": {
+      "description": "Qwen3-Embedding-4B 是由 moark 提供的人工智能模型。",
+      "id": "Qwen3-Embedding-4B",
+      "name": "Qwen3-Embedding-4B"
+    },
+    "Qwen3-Embedding-8B": {
+      "description": "Qwen3-Embedding-8B 是由 moark 提供的人工智能模型。",
+      "id": "Qwen3-Embedding-8B",
+      "name": "Qwen3-Embedding-8B"
+    },
+    "Qwen3-Reranker-0.6B": {
+      "description": "Qwen3-Reranker-0.6B 是由 moark 提供的人工智能模型。",
+      "id": "Qwen3-Reranker-0.6B",
+      "name": "Qwen3-Reranker-0.6B"
+    },
+    "Qwen3-Reranker-4B": {
+      "description": "Qwen3-Reranker-4B 是由 moark 提供的人工智能模型。",
+      "id": "Qwen3-Reranker-4B",
+      "name": "Qwen3-Reranker-4B"
+    },
+    "Qwen3-Reranker-8B": {
+      "description": "Qwen3-Reranker-8B 是由 moark 提供的人工智能模型。",
+      "id": "Qwen3-Reranker-8B",
+      "name": "Qwen3-Reranker-8B"
+    },
+    "Qwen3-VL-Embedding-2B": {
+      "description": "Qwen3-VL-Embedding-2B 是由 moark 提供的人工智能模型。",
+      "id": "Qwen3-VL-Embedding-2B",
+      "name": "Qwen3-VL-Embedding-2B"
+    },
+    "Qwen3-VL-Embedding-8B": {
+      "description": "Qwen3-VL-Embedding-8B 是由 moark 提供的人工智能模型。",
+      "id": "Qwen3-VL-Embedding-8B",
+      "name": "Qwen3-VL-Embedding-8B"
+    },
+    "Qwen3-VL-Reranker-2B": {
+      "description": "Qwen3-VL-Reranker-2B 是由 moark 提供的人工智能模型。",
+      "id": "Qwen3-VL-Reranker-2B",
+      "name": "Qwen3-VL-Reranker-2B"
+    },
+    "Qwen3-VL-Reranker-8B": {
+      "description": "Qwen3-VL-Reranker-8B 是由 moark 提供的人工智能模型。",
+      "id": "Qwen3-VL-Reranker-8B",
+      "name": "Qwen3-VL-Reranker-8B"
+    },
+    "Youtu-Embedding": {
+      "description": "Youtu-Embedding 是由 moark 提供的人工智能模型。",
+      "id": "Youtu-Embedding",
+      "name": "Youtu-Embedding"
+    },
+    "all-mpnet-base-v2": {
+      "description": "all-mpnet-base-v2 是由 moark 提供的人工智能模型。",
+      "id": "all-mpnet-base-v2",
+      "name": "all-mpnet-base-v2"
+    },
+    "bce-embedding-base_v1": {
+      "description": "bce-embedding-base_v1 是由 moark 提供的人工智能模型。",
+      "id": "bce-embedding-base_v1",
+      "name": "bce-embedding-base_v1"
+    },
+    "bce-reranker-base_v1": {
+      "description": "bce-reranker-base_v1 是由 moark 提供的人工智能模型。",
+      "id": "bce-reranker-base_v1",
+      "name": "bce-reranker-base_v1"
+    },
+    "bge-large-zh-v1.5": {
+      "description": "bge-large-zh-v1.5 是由 moark 提供的人工智能模型。",
+      "id": "bge-large-zh-v1.5",
+      "name": "bge-large-zh-v1.5"
+    },
+    "bge-m3": {
+      "description": "bge-m3 是由 moark 提供的人工智能模型。",
+      "id": "bge-m3",
+      "name": "bge-m3"
+    },
+    "bge-reranker-v2-m3": {
+      "description": "bge-reranker-v2-m3 是由 moark 提供的人工智能模型。",
+      "id": "bge-reranker-v2-m3",
+      "name": "bge-reranker-v2-m3"
+    },
+    "bge-small-zh-v1.5": {
+      "description": "bge-small-zh-v1.5 是由 moark 提供的人工智能模型。",
+      "id": "bge-small-zh-v1.5",
+      "name": "bge-small-zh-v1.5"
+    },
+    "clip-vit": {
+      "description": "clip-vit 是由 moark 提供的人工智能模型。",
+      "id": "clip-vit",
+      "name": "clip-vit"
+    },
+    "jina-clip-v1": {
+      "description": "jina-clip-v1 是由 moark 提供的人工智能模型。",
+      "id": "jina-clip-v1",
+      "name": "jina-clip-v1"
+    },
+    "jina-clip-v2": {
+      "description": "jina-clip-v2 是由 moark 提供的人工智能模型。",
+      "id": "jina-clip-v2",
+      "name": "jina-clip-v2"
+    },
+    "jina-embeddings-v4": {
+      "description": "jina-embeddings-v4 是由 moark 提供的人工智能模型。",
+      "id": "jina-embeddings-v4",
+      "name": "jina-embeddings-v4"
+    },
+    "jina-reranker-m0": {
+      "description": "jina-reranker-m0 是由 moark 提供的人工智能模型。",
+      "id": "jina-reranker-m0",
+      "name": "jina-reranker-m0"
+    },
+    "nomic-embed-code": {
+      "description": "nomic-embed-code 是由 moark 提供的人工智能模型。",
+      "id": "nomic-embed-code",
+      "name": "nomic-embed-code"
     }
   },
   "name": "Moark",

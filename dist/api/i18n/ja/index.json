@@ -21284,6 +21284,86 @@
     {
       "flags": {
         "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "all-mpnet-base-v2",
+      "name": "all-mpnet-base-v2",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "bce-embedding-base_v1",
+      "name": "bce-embedding-base_v1",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "bce-reranker-base_v1",
+      "name": "bce-reranker-base_v1",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "bge-large-zh-v1.5",
+      "name": "bge-large-zh-v1.5",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "bge-m3",
+      "name": "bge-m3",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "bge-reranker-v2-m3",
+      "name": "bge-reranker-v2-m3",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "bge-small-zh-v1.5",
+      "name": "bge-small-zh-v1.5",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "clip-vit",
+      "name": "clip-vit",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
         "reasoning": true,
         "tool_call": true
       },
@@ -21295,6 +21375,46 @@
     {
       "flags": {
         "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "jina-clip-v1",
+      "name": "jina-clip-v1",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "jina-clip-v2",
+      "name": "jina-clip-v2",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "jina-embeddings-v4",
+      "name": "jina-embeddings-v4",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "jina-reranker-m0",
+      "name": "jina-reranker-m0",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
         "reasoning": true,
         "tool_call": true
       },
@@ -21302,6 +21422,126 @@
       "name": "MiniMax-M2.1",
       "providerId": "moark",
       "updated": "2025-12-23"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "nomic-embed-code",
+      "name": "nomic-embed-code",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Qwen3-Embedding-0.6B",
+      "name": "Qwen3-Embedding-0.6B",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Qwen3-Embedding-4B",
+      "name": "Qwen3-Embedding-4B",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Qwen3-Embedding-8B",
+      "name": "Qwen3-Embedding-8B",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Qwen3-Reranker-0.6B",
+      "name": "Qwen3-Reranker-0.6B",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Qwen3-Reranker-4B",
+      "name": "Qwen3-Reranker-4B",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Qwen3-Reranker-8B",
+      "name": "Qwen3-Reranker-8B",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Qwen3-VL-Embedding-2B",
+      "name": "Qwen3-VL-Embedding-2B",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Qwen3-VL-Embedding-8B",
+      "name": "Qwen3-VL-Embedding-8B",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Qwen3-VL-Reranker-2B",
+      "name": "Qwen3-VL-Reranker-2B",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Qwen3-VL-Reranker-8B",
+      "name": "Qwen3-VL-Reranker-8B",
+      "providerId": "moark"
+    },
+    {
+      "flags": {
+        "attachment": false,
+        "reasoning": false,
+        "tool_call": false
+      },
+      "id": "Youtu-Embedding",
+      "name": "Youtu-Embedding",
+      "providerId": "moark"
     },
     {
       "flags": {
@@ -45091,7 +45331,7 @@
       "doc": "https://moark.com/docs/openapi/v1#tag/%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90",
       "iconURL": "https://models.dev/logos/moark.svg",
       "id": "moark",
-      "modelCount": 2,
+      "modelCount": 26,
       "name": "Moark"
     },
     {
