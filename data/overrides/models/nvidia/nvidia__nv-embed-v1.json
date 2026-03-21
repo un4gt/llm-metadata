@@ -1,0 +1,17 @@
+{
+  "id": "nvidia/nv-embed-v1",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 8192,
+    "output": 1024
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "vector"
+    ]
+  },
+  "name": "NV-Embed v1"
+}

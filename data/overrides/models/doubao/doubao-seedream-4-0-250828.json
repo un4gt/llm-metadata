@@ -1,0 +1,15 @@
+{
+  "id": "doubao-seedream-4-0-250828",
+  "last_updated": "2026-03-20",
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "name": "Doubao Seedream 4.0",
+  "release_date": "2025-08-28"
+}

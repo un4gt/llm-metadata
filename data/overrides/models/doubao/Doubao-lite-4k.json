@@ -1,0 +1,19 @@
+{
+  "id": "Doubao-lite-4k",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 4096,
+    "output": 4096
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "name": "Doubao Lite 4K",
+  "temperature": true,
+  "tool_call": true
+}

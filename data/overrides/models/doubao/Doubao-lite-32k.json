@@ -1,0 +1,19 @@
+{
+  "id": "Doubao-lite-32k",
+  "last_updated": "2026-03-20",
+  "limit": {
+    "context": 32000,
+    "output": 8192
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "name": "Doubao Lite 32K",
+  "temperature": true,
+  "tool_call": true
+}
